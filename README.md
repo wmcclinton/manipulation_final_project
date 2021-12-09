@@ -6,7 +6,7 @@ Use Deepnote with [russtedrake/manipulation:mesh_painter Docker Image](https://h
 
 or
 
-Install pydrake and additional dependencies locally then run with russtedrake/manipulation:mesh_painter Docker Image
+Install pydrake and additional dependencies locally then run the [Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/running.html) with russtedrake/manipulation:mesh_painter Docker Image
 
 ## Code
 
